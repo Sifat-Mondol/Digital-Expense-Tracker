@@ -10,7 +10,9 @@ It allows users to add, edit, and delete expenses and incomes.
 ✔️ View income history
 ✔️ Delete unnecessary expenses  
 ✔️ Delete unnecessary incomes  
+✔️ Show total balance of user after incomes and expenses
 ✔️ Simple UI design  
+
 
 ### 🔗 Live Project:
 [GitHub Repository](https://github.com/Sifat-Mondol/Digital-Expense-Tracker)
